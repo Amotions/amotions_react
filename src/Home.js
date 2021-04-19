@@ -219,8 +219,7 @@ export default class Home extends Component {
         <div className="headline-container col-lg-5">
           <div className="headline">
             <h1>Amotions</h1>
-            <p>A platform for sharing and improving
-              emotional and mental health and EQ</p>
+            <p>A platform for developing skills important for success and health such as communication and emotional intelligence</p>
             <button type="button" className="login-button btn btn-dark">SIGN UP / LOG IN</button>
           </div>
         </div>
@@ -381,6 +380,16 @@ export default class Home extends Component {
         <p className="gray-text">“There are a lot of things I have gotten out of this and that was unexpected. I really like how everyone in this group is different. What I think that brings us all together, despite of everyone is different, there’s a trust
           layer. So I can be honest, and I don’t need to say everything is great. I felt really good, I felt heard, everyone was actually listening. Also the benefit of listening to other people, heard similar experiences from other people.”</p>
       </div>
+
+
+
+
+          
+
+          <p className={"videoEmbed"} align={"center"}><iframe id="player" type="text/html" width="640" height="390"
+                                                               src="http://www.youtube.com/embed/UDQvZ0NDm-E?enablejsapi=1&origin=http://amotionsinc.com"
+                                                               frameBorder="0"></iframe>
+          </p>
 
 
 
